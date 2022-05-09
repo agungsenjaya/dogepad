@@ -57,7 +57,7 @@ function MyApp(props: AppProps) {
           content="Dogepad is the biggest Bitrise reflection token brought to market Dogepad will give you experience about utility token."
         />
         <meta name="theme-color" content="#F9B64B" />
-        <meta name="twitter:image" content="https://dogepad.us/images/hero.png" />
+        <meta name="twitter:image" content="https://fluffy-sorbet-cbe5ef.netlify.app/images/hero.png" />
         <meta
           name="twitter:description"
           content="Dogepad is the biggest Bitrise reflection token brought to market Dogepad will give you experience about utility token."
