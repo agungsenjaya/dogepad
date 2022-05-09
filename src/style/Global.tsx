@@ -541,8 +541,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   .hero {
-    // background:url(https://bitgertswap.finance/images/bg-1.jpg);
-    background:url(http://localhost:3000/images/bg-2.jpg);
+    background:url(https://fluffy-sorbet-cbe5ef.netlify.app/images/bg-2.jpg);
     background-size: cover;
     background-position: bottom;
   }
